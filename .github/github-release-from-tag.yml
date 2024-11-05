@@ -1,0 +1,10 @@
+assets:
+  - path: assets/json/file-b.json
+    name: custom-name-b.json
+    label: Label for file-b.json, which will download as custom-name-b.json
+  - path: assets/text/file-c.*.txt
+    name: custom-name-c.txt
+  - path: assets/text/file-a.txt
+  - path: assets/json/file-d.*.json
+  - path: assets/optional/*
+    optional: true
