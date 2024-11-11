@@ -1,0 +1,6 @@
+checksum:
+  generateAssets: false
+assets:
+  - path: assets/file-a.txt
+    name: custom-name-a.txt
+    label: Label for file-a.txt, which will download as custom-name-a.txt
